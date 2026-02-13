@@ -1,0 +1,3 @@
+imageID,class,hawkID,filepath,qcStatus,qcNotes,width,height,exposureScore
+tdebutch_001,orange,tdebutch,data/raw/orange/tdebutch_001.jpg,working,low_resolution(150x148),150,148,0.7600863216157334
+tdebutch_002,carrot,tdebutch,data/raw/carrot/tdebutch_002.jpg,working,low_resolution(315x160),315,160,0.33730604834526406
